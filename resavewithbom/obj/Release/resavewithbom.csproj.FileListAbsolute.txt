@@ -1,0 +1,5 @@
+D:\Projects\resavewithbom\resavewithbom\bin\Release\resavewithbom.exe.config
+D:\Projects\resavewithbom\resavewithbom\bin\Release\resavewithbom.exe
+D:\Projects\resavewithbom\resavewithbom\bin\Release\resavewithbom.pdb
+D:\Projects\resavewithbom\resavewithbom\obj\Release\resavewithbom.exe
+D:\Projects\resavewithbom\resavewithbom\obj\Release\resavewithbom.pdb
